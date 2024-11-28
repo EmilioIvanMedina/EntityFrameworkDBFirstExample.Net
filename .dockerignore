@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+*.suo
+*.csprocj.user*.vs
+.idea/
+.env
+node_modules/
